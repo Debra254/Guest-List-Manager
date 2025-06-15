@@ -8,7 +8,7 @@ Add Guests - Easily add guests with their name and category
 RSVP Tracking - Toggle between "Attending" and "Not Attending" status  
 Guest Categories - Organize guests as Friends, Family, or Colleagues  
 Edit Functionality - Update guest names anytime  
-Persistent Storage* - Guest list saves between sessions  
+Persistent Storage - Guest list saves between sessions  
 Responsive Design - Works well on all device sizes  
 Visual Indicators - Color-coded categories and clear status buttons  
 
